@@ -1,3 +1,3 @@
-var str = "Hello, world!"
-
-console.log(str)
+var str = "Hello, "
+var name = "Andrew!"
+console.log(str + name)
